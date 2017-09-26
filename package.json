@@ -1,0 +1,13 @@
+{
+  "name": "Jester",
+  "desciption": "Messages",
+  "version": "0.0.0",
+  "main": "jester.py",
+  "scripts": {
+    "start": "node jester.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+	"request": "2.81.0"
+	}
+}	
