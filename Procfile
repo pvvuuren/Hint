@@ -1,1 +1,1 @@
-web: python jester.py --log-file -
+worker: python jester.py --log-file -
