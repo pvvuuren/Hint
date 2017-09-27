@@ -2,9 +2,9 @@
   "name": "Jester",
   "desciption": "Messages",
   "version": "0.0.0",
-  "main": "jester.py",
+  "main": "Jester.py",
   "scripts": {
-    "start": "node jester.py"
+    "start": "node Jester.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
