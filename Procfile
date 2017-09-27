@@ -1,1 +1,1 @@
-worker: python jester.py
+worker: python Jester.py
