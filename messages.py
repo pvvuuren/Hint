@@ -12,10 +12,11 @@ messages_list = ["Read <#242954895379005440> for server rules and channel uses",
 "TSA guidelines now prohibit having anuses for eyes on airplanes.", 
 "For a list of available roles on the server, type **+giveme list** in <#271321413749702656> or see roles section in <#242954895379005440>", 
 "Every step towards Auschwitz gets me a little bit closer to a face full of horse cum.", 
-"Read the server rules here <#242954895379005440>"
+"Check your Tatsumaki global rank by typing **t!rank** in <#352368924119007242>"
 "Believe it or not, Jim Carrey can do a dead-on impression of coat hanger abortions.", 
 "Log into your Tatsumaki Dashboard to change your background picture and more https://www.tatsumaki.xyz/", 
 "Come to Dubai, where you can relax in our world-famous spas, experience the nightlife, or simply enjoy two midgets shitting into a bucket.", 
+"Invite your friends to the server, see invite link at the bottom of <#242954895379005440>"
 "In the beginning, there was mild autism. And the Lord said 'Let there be the shittier, Jewish version of Christmas.", 
 "Poopy diapers: Hours of fun. Easy to use. Perfect for praying the gay away.", 
 "Today on *Mythbusters*, we find out how long the terrorists can withstand pooping back and forth. Forever.", 
