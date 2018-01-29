@@ -4,6 +4,8 @@ import random
 from messages import messages_list
 from copy import deepcopy
 
+key = open('token.txt', 'r')
+token = key.read()
 client = discord.Client()
 
 async def background_loop():
@@ -19,7 +21,7 @@ async def background_loop():
         await asyncio.sleep(21600)
 
 client.loop.create_task(background_loop())
-client.run("MzYwNjg1NTM0NTk2ODI1MDkx.DVDYYA.23Z1kvAA3mjLRCGeY_SBeuh2s5M")
+client.run("token")
 
 
 
