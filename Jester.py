@@ -19,7 +19,7 @@ async def background_loop():
         await asyncio.sleep(21600)
 
 client.loop.create_task(background_loop())
-client.run("MzYwNjg1NTM0NTk2ODI1MDkx.DKuSoQ.Prdbtg0W66L_WztPOqO-nDOgzWE")
+client.run("MzYwNjg1NTM0NTk2ODI1MDkx.DVDYYA.23Z1kvAA3mjLRCGeY_SBeuh2s5M")
 
 
 
