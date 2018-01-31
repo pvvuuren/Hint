@@ -4,7 +4,7 @@ import random
 from messages import messages_list
 from copy import deepcopy
 
-key = open("token.txt","r").readline()
+key = open("ID.txt","r").readline()
 client = discord.Client()
 
 async def background_loop():
