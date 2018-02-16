@@ -1,1 +1,1 @@
-# Jester
+# Hint
