@@ -9,7 +9,7 @@ client = discord.Client()
 
 async def background_loop():
     await client.wait_until_ready()
-    await client.change_presence(game=discord.Game(name="with my thingie"))
+    await client.change_presence(game=discord.Game(name="Cloak & Dagger"))
     messages = deepcopy(messages_list)
     cleanmessages = deepcopy(messages_list)
     while not client.is_closed:
