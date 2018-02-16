@@ -1,2 +1,2 @@
-worker: python Jester.py
-web: python Jester.py
+worker: python Hint.py
+web: python Hint.py
