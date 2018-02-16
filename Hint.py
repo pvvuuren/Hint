@@ -21,6 +21,3 @@ async def background_loop():
 
 client.loop.create_task(background_loop())
 client.run(key)
-
-
-
