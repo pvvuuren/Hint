@@ -1,10 +1,10 @@
 {
-  "name": "Jester",
+  "name": "Hint",
   "desciption": "Messages",
   "version": "0.0.0",
-  "main": "Jester.py",
+  "main": "Hint.py",
   "scripts": {
-    "start": "node Jester.py"
+    "start": "node Hint.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
