@@ -3,8 +3,10 @@ import asyncio
 import random
 from messages import messages_list
 from copy import deepcopy
+from boto.s3.connection import S3Connection
 
-key = open("ID.txt","r").readline()
+s3 = S3Connection(os.environ['S3_KEY'], os.environ['S3_SECRET'])
+#key = open("ID.txt","r").readline()
 client = discord.Client()
 
 async def background_loop():
@@ -20,4 +22,4 @@ async def background_loop():
         await asyncio.sleep(21600)
 
 client.loop.create_task(background_loop())
-client.run(key)
+client.run(s3)
