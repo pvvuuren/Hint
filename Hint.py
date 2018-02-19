@@ -4,7 +4,7 @@ import random
 from messages import messages_list
 from copy import deepcopy
 
-var key = process.env.BOT_TOKEN;
+key = process.env.BOT_TOKEN;
 #key = open("ID.txt","r").readline()
 client = discord.Client()
 
