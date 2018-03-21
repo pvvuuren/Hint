@@ -11,4 +11,5 @@ messages_list = ["Read <#242954895379005440> for server rules and channel uses",
 "To access the **GAMING ZONE**, you require the **Gamer** role",
 "By typing the command of a role you already have again, you will remove the role",
 "Give someone a cookie, in <#352368924119007242> type **t!cookie** and the name of a person",
+"Type **!levels** in <#352368924119007242> to get a link to the Leaderboard",
 "Flarbing or plerking is right out, as is posting photos of the meal you just ate. Also no Tweelunkin, Skytrolling, Flashpooling, net-caching, Knob-rollicking or Cob-nobbling!"]
