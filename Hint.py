@@ -11,7 +11,7 @@ client = discord.Client()
 
 async def background_loop():
     await client.wait_until_ready()
-    await client.change_presence(game=discord.Game(name="Gaming South Africa"))
+    await client.change_presence(game=discord.Game(name="Cloak n Dagger"))
     last_message = None
     messages = deepcopy(messages_list)
     cleanmessages = deepcopy(messages_list)
